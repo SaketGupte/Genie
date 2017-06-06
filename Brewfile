@@ -28,6 +28,7 @@ cask 'sourcetree'
 cask 'skype'
 cask 'sublime-text'
 cask 'tunnelbear'
+cask 'teamviewer'
 cask 'vlc'
 
 mas 'iMovie', id: 408981434
