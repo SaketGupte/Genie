@@ -7,6 +7,7 @@ brew 'cocoapods'
 brew 'dockutil'
 brew 'ffmpeg'
 brew 'wget'
+brew 'zenity'
 
 cask '1password'
 cask 'android-file-transfer'
