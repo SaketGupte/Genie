@@ -32,6 +32,11 @@ sed -i -e 's/plugins=.*/plugins=(git xcode thefuck)/g' ~/.zshrc
 echo ">>>>>>>>>>> linking sublime-text for terminal use... <<<<<<<<<<<<\n"
 ln -s “/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl” /usr/local/bin/s
 
+
+echo "\n>>>>>>>>>> Installing Xcode now <<<<<<<<<<<"
+./XcodeInstall.sh please
+
+
 echo ">>>>>>>>>>> Customizing your Dock!... <<<<<<<<<<<<\n"
 # Configure Dock
 dockutil --no-restart --remove all

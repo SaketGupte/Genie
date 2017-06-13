@@ -42,4 +42,3 @@ mas 'Disk Care', id: 913724705
 mas 'Apple Configurator 2', id: 1037126344 
 mas 'iA Writer', id: 775737590 
 mas 'Shazam', id: 897118787
-mas 'Xcode', id: 497799835
